@@ -1,15 +1,46 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Welcome to Anny's Comics!
+permalink: /comics/
 ---
 
-Some information about you!
+Hello there! Here is a sample of my comics. More to come!
 
-### More Information
+# Life in San Francisco
+![_config.yml]({{ site.baseurl }}/images/comics/finding_a_roommate.jpg)
 
-A place to include any other types of information that you'd like to include about yourself.
+![_config.yml]({{ site.baseurl }}/images/comics/SF PERCEPTION MONEY AND ANGELS.jpg)
 
-### Contact me
+![_config.yml]({{ site.baseurl }}/images/comics/SF_reality.jpg)
 
-[email@domain.com](mailto:email@domain.com)
+
+
+
+# Software Engineer Pet Peeves
+![_config.yml]({{ site.baseurl }}/images/comics/SWE PET PEEVE 2.jpg)
+
+![_config.yml]({{ site.baseurl }}/images/comics/SWE PET PEEVE.jpg)
+
+
+
+
+# Universities: perception vs reality
+
+![_config.yml]({{ site.baseurl }}/images/comics/universities are centers of.jpg)
+
+
+
+
+# Who are the happiest workers? Those that don't need to work
+![_config.yml]({{ site.baseurl }}/images/comics/Happiness and work.jpg)
+
+There's more to come! 
+
+
+
+
+              
+  
+
+
+
