@@ -1,8 +1,16 @@
 ---
 layout: page
-title: Aren't you a curious one!
+title: The most common question I get is
 permalink: /about/
 ---
+
+Did you actually play the bagpipes?
+
+Yes I did. For 7 years. This is a video me playing the Canadian anthem on the bagpipes.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Fjt2zt7SoqU?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
+Here is another video of me playing Amazing Grace with the wonderful Simon Fraser University Pipe Band.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s7pUbkJcBRU?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 Why am I writing this blog?
 =
