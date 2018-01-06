@@ -1,9 +1,7 @@
 ---
 layout: post
-title: Non-coding work accomplishments in 2017
+title: Why do anything outside of your job description?
 ---
-
-Why would anyone do anything outside of their job description?
 
 We live in a capitalist society. This means every employee is replaceable, and some are harder to replace than others. The key is to become difficult to replace, and this means going above and beyond the job description.
 
