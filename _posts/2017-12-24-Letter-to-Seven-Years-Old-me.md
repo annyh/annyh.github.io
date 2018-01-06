@@ -11,7 +11,7 @@ Hello there.
 
 You're quiet. That will change.
 
-You scribble furiously with pencil on paper. Your artistic genius and quiet demeanor is known across yours and your parents' social circles. You will change, but your fondness for experimentation and improvement will remain.
+You scribble furiously with pencil on paper. Your artistic genius and quiet demeanor is known across yours and your parents' social circles. Your skills will change, but your fondness for experimentation and improvement will remain.
 
 School is not fun. No, it is hell on earth, with teachers acting as gods and certain students as kings, pushing the other students around. You are left alone because you are quiet and of no use to anyone. You are also on the bottom on the pecking order. This is unfortunate, as no one wants to be friends with somoene on the bottom. The rotten start to schooling will tarnish your faith in the formal education system.
 
