@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Best Investing Blogs
+title: Best Investing Blogs for Beginners
 ---
 
-There are many blogs on investing. These are the most beginner-friendly ones.
+The most straightforward answer to your first questions.
 
 **Compounding Snowballs** [Why do I invest](http://compoundingsnowballs.blogspot.com/2017/06/why-do-i-invest.html) 
 

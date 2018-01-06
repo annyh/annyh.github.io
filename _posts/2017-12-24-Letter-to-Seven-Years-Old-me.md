@@ -3,7 +3,7 @@ layout: post
 title: Letter to the Seven Years Old Me
 ---
 
-Letter from a wise 25 years old to a younger, artistic self. Covers a brief life history, growth of the Internet, and how a person can tackle the uncontrollable-ness of it all.
+Letter from a wise 25 years old to a younger, artistic self. Covers a brief life history, growth of the Internet, and how to tackle the uncontrollable-ness of life.
 
 ------------------------------------------------------
 
