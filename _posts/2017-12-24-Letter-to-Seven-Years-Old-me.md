@@ -25,9 +25,9 @@ Instead of taking SAT tests, you played bagpipes. The biggest memory from high s
 
 You are only going to be less quiet going onwards. 
 
-While playing music, life will get tough for your parents. Their attempt to play it safe by holding jobs and delaying home ownership will backfire during the rapid growth of the Vancouver housing market. Not only will they lose their jobs, but the delay in home ownership means their income will be tiny compared to what the house flippers make. This will leave a bitter taste in your father's mouth: how come a phD dropout and post doctorate, combined, make much less than those with barely any formal education? Eventually he will gripe about how the highly educated Asians in North America opt to remain employees, instead of taking bigger risks and making much more money.
+Life will get tough for your parents. Their attempt to play it safe by holding jobs and delaying home ownership will backfire during the rapid growth of the Vancouver housing market. Not only will they lose their jobs, but the delay in home ownership means their income will be tiny compared to what the house flippers make. A phD dropout and post doctorate, combined, will make much less than those with barely any formal education. 
 
-The irony of the government taxing hard-earned employment income at a higher percentage than capital gains will inspire you. You will learn about taxes and growing money outside of employment, as a hobby.
+The irony of the government taxing hard-earned employment income at a higher percentage than capital gains will inspire you. You will learn about taxes and growing money outside of employment.
 
 Your parents will insist that you get a university degree. But which one? You will consider Art History, since most of your AP courses were in the arts. Your friends thought you will study Philosophy, since you are so pensive and received the top grades in Philosophy class. But your parents will convince you to go into Business, because that is where quiet Asian girls like yourself go and become accountants. While not a glamorous career, accountants are respected, and the job pays the bills. You already took two accounting courses in high school, and many of your peers were also studying business, so you said yes.
 
