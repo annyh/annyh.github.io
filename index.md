@@ -5,6 +5,10 @@ title: Welcome to Anny's Comics!
 
 Hello there! Here is a sample of my comics. More to come!
 
+<p class='largeImg'><img src="{{ site.baseurl }}/images/comics/Common Complaints in Silicon Valley.svg" /></p>
+
+<p class='largeImg'><img src="{{ site.baseurl }}/images/comics/class_system.svg" /></p>
+
 # Same input, different outcomes
 ![_config.yml]({{ site.baseurl }}/images/comics/employee_vs_entrepreneur.png)
 
@@ -28,22 +32,17 @@ Hello there! Here is a sample of my comics. More to come!
 ![_config.yml]({{ site.baseurl }}/images/comics/SWE PET PEEVE.jpg)
 
 
-
-
-![_config.yml]({{ site.baseurl }}/images/comics/universities are centers of.jpg)
-
-
-
+<p class='largeImg'><img src="{{ site.baseurl }}/images/comics/universities are centers of.jpg" /></p>
 
 ![_config.yml]({{ site.baseurl }}/images/comics/Happiness and work.jpg)
 
-There's more to come! 
+There's more to come!
 
 
 
 <script src="//load.sumome.com/" data-sumo-site-id="408983dbd0095fe2981312317b69e43305d9fbf51541030974c2d50a13248475" async="async"></script>
-              
-  
+
+
 
 
 
