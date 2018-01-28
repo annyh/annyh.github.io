@@ -5,6 +5,27 @@ title: Welcome to Anny's Comics!
 
 Hello there! Here is a sample of my comics. More to come!
 
+# A Timely reminder
+![_config.yml]({{ site.baseurl }}/images/comics/hurry_up.png)
+
+# On proving oneself
+![_config.yml]({{ site.baseurl }}/images/comics/i_will_be_smart.png)
+
+# On happiness and being 'smart'
+![_config.yml]({{ site.baseurl }}/images/comics/expect_vs_reality.png)
+
+
+# On Canada vs United States
+![_config.yml]({{ site.baseurl }}/images/comics/what_i_miss_about_canada.png)
+
+# Oh no, not again
+![_config.yml]({{ site.baseurl }}/images/comics/Brain_drain.png)
+
+
+# Compare and Contrast
+![_config.yml]({{ site.baseurl }}/images/comics/wonder_woman.png)
+![_config.yml]({{ site.baseurl }}/images/comics/aveage_woman.png)
+
 # All's not well in the Valley
 ![_config.yml]({{ site.baseurl }}/images/comics/Common Complaints in Silicon Valley.svg)
 ![_config.yml]({{ site.baseurl }}/images/comics/class_system.svg)
