@@ -5,9 +5,9 @@ title: Welcome to Anny's Comics!
 
 Hello there! Here is a sample of my comics. More to come!
 
-<p class='largeImg'><img src="{{ site.baseurl }}/images/comics/Common Complaints in Silicon Valley.svg" /></p>
-
-<p class='largeImg'><img src="{{ site.baseurl }}/images/comics/class_system.svg" /></p>
+# All's not well in the Valley
+![_config.yml]({{ site.baseurl }}/images/comics/Common Complaints in Silicon Valley.svg)
+![_config.yml]({{ site.baseurl }}/images/comics/class_system.svg)
 
 # Same input, different outcomes
 ![_config.yml]({{ site.baseurl }}/images/comics/employee_vs_entrepreneur.png)
