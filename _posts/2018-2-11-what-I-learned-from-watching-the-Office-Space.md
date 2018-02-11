@@ -54,9 +54,9 @@ Jennifer Aniston lit up the screen, a standout among the sausage fest of mostly 
 
 **Summary**
 
-This is a highly recommended comedy. There's truth in jest: in real life, I saw hardworking people who get laid off, while those who did not care rise in the ranks. 
+This is a highly recommended comedy. There's truth in jest: in real life, I saw hardworking people get laid off, while those who did not care rise in the ranks. 
 
-People get attached to having work, their title, and material things at work. Yet the attachment comes at a price: unhappiness, disappointment from unmet needs, and the hurt from the abrupt departure. Lesson learned? Leave when the going is good. Or start your own company. Why not? 
+People get attached to their work, their title, and material things at work. Yet the attachment comes at a price: unhappiness, disappointment from unmet needs, and the hurt from the abrupt departure. Lesson learned? Leave when the going is good. Or start your own company. Why not? 
 
 That is what I would do with a million dollars.
 
