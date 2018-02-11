@@ -11,7 +11,7 @@ Hello there! Here is a sample of my comics. More to come!
 # On proving oneself
 ![_config.yml]({{ site.baseurl }}/images/comics/i_will_be_smart.png)
 
-# On happiness and being 'smart'
+# Expectations are Oversold
 ![_config.yml]({{ site.baseurl }}/images/comics/expect_vs_reality.png)
 
 
