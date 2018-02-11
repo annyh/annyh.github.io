@@ -9,15 +9,15 @@ The movie Office Space was recommended by a highly esteemed colleague. Since we 
 
 This has been my hunch since I was 16, when I worked briefly in fast food. I see boredom on the commuters' faces. Now that I work in the office environment, it is rare to see happy people there. The movie validates the hunch.
 
-**2. White boys play gangster music when they are trying to be tough**
+**2. White boys play gangster music to appear cool and tough**
 
-Really, is there no other way to connote coolness? Do office-working caucasian men with eye glasses rely on rap to feel powerful? 
+Really, is there no other way to connote coolness and toughness? Do office-working caucasian men with eye glasses rely on rap to feel powerful? 
 
 Also there was a lack of racial representation in the movie. That merits another article.
 
 **3. Passive aggressive managers are a pain**
 
-Bill Lumbergh (the douche-y manager) usually ends his sentences with: "that would be great". He tells his team what to do while smiling, seemingly asking them to do a favor that won't be reciprocated. He also repeatedly reminded his direct report Peter on the TPS report. The nit-pick, lukewarm approach on telling people what to do, plus a lack of promotion, motivation, and relationship-building, de-motivates the team. Some corporations treat their workers like robots, but making them feel like they are being treated like one is a sign of bad management. 
+Bill Lumbergh (Peter's manager) ends his sentences with: "that would be great". He smiles while telling his team what to do, asking them for a favor that won't be reciprocated. He also repeatedly reminded Peter on the TPS report. The nit-pick, lukewarm approach on telling people what to do, plus a lack of promotion, motivation, and relationship-building, de-motivates the team. Some corporations treat their workers like robots, but making them feel like they are treated like one is bad management. 
 
 Even worse, Joanna's manager attemps to motivate Joanna to wear more plastic corporate buttons by lecturing her on how the buttons are a sign of self expression. Joanna sees through his weak attempt and asks whether he is telling her to wear more buttons. He trudges on with the attempt, until Joanna gets fed up and flips the finger. In the fast food industry, where the pay is low and workers already feel unappreciated and treated like mere bodies, being lectured in such a way is entertaining at best, demeaning at worst.
 
@@ -25,7 +25,7 @@ Even worse, Joanna's manager attemps to motivate Joanna to wear more plastic cor
 
 Experienced programmers are worth much more than what they are paid: their knowledge of the ins and outs of a system is difficult to replace, regardless of who fills their seat. More frighteningly, there was no reasonable precedent to let go of the programmers; the managers haphazardly heeded the consultant's advice. This was one of the absurd highlights of the movie. 
 
-Who benefits? Their next employer, who gets experienced talent that otherwise won't be on the job market.
+Who benefits? Their next employer, who gets experienced talent that won't otherwise be on the job market.
 
 **5. Given a million dollars, most people will not go back to their jobs**
 
