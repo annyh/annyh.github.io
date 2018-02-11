@@ -1,11 +1,9 @@
 ---
 layout: post
-title: How do we become more invaluable at the workplace? 
+title: What do I do besides writing code at work?
 ---
 
-Some workers are harder to replace than others. Why? Because not only do they do their job, but they also take on projects that are outside of their day-to-day job description.
-
-How to choose which project to take on? Choose what is rarely expected of your role AND increases your value. That depends on the role. I work as a software engineer, and I choose to forge uncommon relationships and market our product.
+In short: I forge relationships and market our product.
 
 Why market the product? Because marketing makes technology sexy, the same way Ginger Rogers made Fred Astaire sexy. Also no one is doing marketing for my team yet. Besides me. Prime time for learning. 
 

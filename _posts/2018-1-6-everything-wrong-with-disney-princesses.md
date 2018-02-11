@@ -3,7 +3,7 @@ layout: centered
 title: Everything Wrong with Disney Princesses
 ---
 
-Disney Princesses have been around for decades and remain attractive characters? What's not to like?
+Disney Princesses have been around for decades and remain attractive characters. What's not to like?
 
 ![_config.yml]({{ site.baseurl }}/images/comics/mermaid.jpg)
 
