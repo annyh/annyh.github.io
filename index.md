@@ -5,6 +5,27 @@ title: Welcome to Anny's Comics!
 
 Hello there! Here is a sample of my comics. More to come!
 
+
+# What happened in 2017?
+![_config.yml]({{ site.baseurl }}/images/comics/2017_in_review.png)
+
+
+# A note to retailers
+![_config.yml]({{ site.baseurl }}/images/comics/struggling_retailers.png)
+
+
+# Smartphones and driving :(
+![_config.yml]({{ site.baseurl }}/images/comics/driver_all.png)
+
+# Dating: it can get awkward
+![_config.yml]({{ site.baseurl }}/images/comics/dating_conversations_all.png)
+
+# This happened at my first internship
+![_config.yml]({{ site.baseurl }}/images/comics/future_of_work_all.png)
+
+# Want-to-do vs. actually-do
+![_config.yml]({{ site.baseurl }}/images/comics/do_at_home.png)
+
 # A Timely reminder
 ![_config.yml]({{ site.baseurl }}/images/comics/hurry_up.png)
 
