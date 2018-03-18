@@ -5,6 +5,21 @@ title: Welcome to Anny's Comics!
 
 Hello there! Here is a sample of my comics. More to come!
 
+
+![_config.yml]({{ site.baseurl }}/images/comics/How to handle  Existential Crisis.svg)
+
+![_config.yml]({{ site.baseurl }}/images/comics/decisions,decisions.png)
+
+![_config.yml]({{ site.baseurl }}/images/comics/Distance makes the heart grow fonder.svg)
+
+![_config.yml]({{ site.baseurl }}/images/comics/having_it_all.png)
+
+![_config.yml]({{ site.baseurl }}/images/comics/Real Life vs  Virtual Reality.svg)
+
+![_config.yml]({{ site.baseurl }}/images/comics/Hiring for photocopy operator.svg)
+
+![_config.yml]({{ site.baseurl }}/images/comics/traveling_tales.svg)
+
 # Self-questioning women
 ![_config.yml]({{ site.baseurl }}/images/comics/gender_differences.png)
 
