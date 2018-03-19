@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<article class="post">
+  <div class="center">
+    {{ page.date | date: "%B %e, %Y" }}    
+    {{ content }}
+  </div>
+	{% if page.date %}
+	  <div class="date">
+	  </div>
+	{% endif %}
+
+  {% include disqus.html %}
+</article>
