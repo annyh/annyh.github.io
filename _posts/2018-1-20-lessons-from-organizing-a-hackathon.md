@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 6 Lessons from Organizing a Hackathon
+tags: career
 ---
 
 I organized a geographically-distributed, week-long hackathon at Salesforce. Why did I do it? Because I wanted to do a hack, and the bigger company-wide hackathons were only twice a year. At Salesforce, hackathons are the perfect place to showcase one's ingenuity: Every hack has the potential to become implemented at work. Hence I heeded the famous saying: "if you want something to happen, do it yourself".

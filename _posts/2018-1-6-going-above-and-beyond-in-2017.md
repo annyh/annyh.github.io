@@ -1,6 +1,7 @@
 ---
 layout: post
 title: What do I do besides writing code at work?
+tags: career
 ---
 
 In short: I forge relationships and market our product.

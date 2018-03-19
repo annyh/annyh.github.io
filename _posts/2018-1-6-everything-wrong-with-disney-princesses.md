@@ -1,6 +1,7 @@
 ---
 layout: centered
 title: Everything Wrong with Disney Princesses
+tags: shopping gender
 ---
 
 Disney Princesses have been around for decades and remain attractive characters. What's not to like?

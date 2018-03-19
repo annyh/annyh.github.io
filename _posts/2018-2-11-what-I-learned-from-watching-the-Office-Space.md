@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 10 Lessons from the Office Space
+tags: career
 ---
 
 The movie Office Space was recommended by a highly esteemed colleague. Since we both work in Software Engineering and the movie features two software engineers, plus the movie is written and directed by Mike Judge (of Silicon Valley fame), I watched it with my boyfriend, who also works as a Software Engineer. Spoiler alert! 

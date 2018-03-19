@@ -27,7 +27,7 @@ In addition to blogging at [annyhe.com](http://www.annyhe.com), Anny is a contri
 
 Anny graduated with a degree in Computing Science from Simon Fraser University.
 
-Did you actually play the bagpipes?
+Did you play the bagpipes?
 ===
 
 Yes I did. For 7 years. This is a video me playing the Canadian anthem on the bagpipes.

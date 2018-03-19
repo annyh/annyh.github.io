@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Best Investing Blogs for Beginners
+tags: investing
 ---
 
 The most straightforward answer to your first questions.
