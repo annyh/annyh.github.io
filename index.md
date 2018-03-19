@@ -7,48 +7,6 @@ Hello there! Here is a sample of my comics. More to come!
 
 {% include archive.html %}
 
-![_config.yml]({{ site.baseurl }}/images/comics/How to handle  Existential Crisis.svg)
-
-![_config.yml]({{ site.baseurl }}/images/comics/decisions,decisions.png)
-
-![_config.yml]({{ site.baseurl }}/images/comics/Distance makes the heart grow fonder.svg)
-
-![_config.yml]({{ site.baseurl }}/images/comics/having_it_all.png)
-
-![_config.yml]({{ site.baseurl }}/images/comics/Real Life vs  Virtual Reality.svg)
-
-![_config.yml]({{ site.baseurl }}/images/comics/Hiring for photocopy operator.svg)
-
-![_config.yml]({{ site.baseurl }}/images/comics/traveling_tales.svg)
-
-# Self-questioning women
-![_config.yml]({{ site.baseurl }}/images/comics/gender_differences.png)
-
-# Confident men
-![_config.yml]({{ site.baseurl }}/images/comics/gender_differences_2.png)
-
-# Nothing is free, not even good looks
-![_config.yml]({{ site.baseurl }}/images/comics/price_for_fashion.png)
-
-# Are expensive shoes worth it?
-![_config.yml]({{ site.baseurl }}/images/comics/expensive_shoes.png)
-
-# Metrics by themselves are no good
-![_config.yml]({{ site.baseurl }}/images/comics/activity_vs_effectiveness.png)
-
-# Pros and cons of each
-![_config.yml]({{ site.baseurl }}/images/comics/study_vs_work.png)
-
-# The other side is greener
-![_config.yml]({{ site.baseurl }}/images/comics/IC_vs_manager.png)
-
-# A funny pattern
-![_config.yml]({{ site.baseurl }}/images/comics/hackathons.png)
-
-# What happened in 2017?
-![_config.yml]({{ site.baseurl }}/images/comics/2017_in_review.png)
-
-
 # A note to retailers
 ![_config.yml]({{ site.baseurl }}/images/comics/struggling_retailers.png)
 
