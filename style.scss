@@ -64,10 +64,6 @@ h4 {
   color: $gray;
 }
 
-p {
-  margin: 15px 0;
-}
-
 a {
   color: $blue;
   text-decoration: none;
@@ -243,7 +239,6 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
 }
 
 .posts > .post:last-child {
