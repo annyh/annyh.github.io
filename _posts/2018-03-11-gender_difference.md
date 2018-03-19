@@ -1,6 +1,6 @@
 ---
 layout: comicCenter
-tags: millenial
+tags: career gender
 noTitle: true
 ---
 

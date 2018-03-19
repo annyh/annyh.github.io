@@ -1,6 +1,6 @@
 ---
 layout: comicCenter
-tags: millenial
+tags: technology
 noTitle: true
 ---
 
