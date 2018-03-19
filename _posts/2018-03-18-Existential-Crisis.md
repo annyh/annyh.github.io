@@ -1,6 +1,6 @@
 ---
 layout: comicCenter
-tags: Millenial
+tags: millenial
 noTitle: true
 ---
 

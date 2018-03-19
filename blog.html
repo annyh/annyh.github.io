@@ -4,14 +4,12 @@ permalink: /blog/
 ---
 
 <div class="posts">
-
   {% for post in site.posts %}
     <article class="post">
   {% if post.noTitle == true %}
   {% else %}
     <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>    
   {% endif %}
-
 
         <!-- if is comic, onclick comic go to different page -->
       {% if post.noTitle == true %}
