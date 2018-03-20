@@ -1,6 +1,6 @@
 ---
 layout: comicCenter
-tags: millenial personal
+tags: shopping
 noTitle: true
 ---
 
