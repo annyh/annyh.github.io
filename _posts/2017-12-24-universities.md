@@ -1,6 +1,6 @@
 ---
 layout: comicCenter
-tags: personal investing
+tags: personal
 noTitle: true
 ---
 
