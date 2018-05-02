@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Why I refuse to do take home programming assignments for interviews
+title: Why I refuse to do take-home programming assignments for interviews
 tags: career technology
 ---
 
 Take-home problems, in which a company asks a prospective engineer to complete at the engineer's leisure, has aggravated me on several accounts. These are the arguments against it.
 
-**Assumptions of the interviewer who assigns a take home assignment**
+**Assumptions of the interviewer who assigns a take-home assignment**
 
 a) the interviewee has time to implement the solution, AND
 
@@ -14,13 +14,13 @@ b) the interviewee is interviewing few companies at a time.
 
 If both assumptions are true, AND the take-home is something the interviewee can feature in their portfolio, AND the company decides to go forward after reviewing the take-home, THEN the take-home can enhance the interview experience.
 
-As for me, both assumptions were false when I actively interviewed. I was working full time, so implementing all the take home assignments was infeasible. Plus I was getting more interview requests than I can handle *without* implementing any of the take-homes.
+As for me, both assumptions were false when I actively interviewed. I was working full time, so implementing all the take-home assignments was infeasible. Plus I was getting more interview requests than I can handle *without* implementing any of the take-homes.
 
 The market in software engineers in the Bay Area (especially where I live, in San Francisco) is red-hot.
 
 **A sample of take-home assignments I encountered**
 
-You might be curious: what were the take home assignments? I was asked to code in HackerRank, implement a note-taking app, and implement Scrabble in whichever web technology I saw fit.
+You might be curious: what were the take-home assignments? I was asked to code in HackerRank, implement a note-taking app, and implement Scrabble in whichever web technology I saw fit.
 
 The **HackerRank** problems were short. Other than learning to use the online interface (which excluded many of the built-in features of my text editor), was fairly efficient. I almost felt good with the rapid validation of the provided test cases.
 
@@ -38,7 +38,7 @@ Both my time and the potential upside of this interaction was limited, so I let 
 
 I felt really bad for not wowing them, and for the sank cost of a Saturday.
 
-**My thoughts when the interviewer suggests a take home assignment**
+**My thoughts when the interviewer suggests a take-home assignment**
 
 1. What is the assignment? I am curious
 2. The problem sounds remotely interesting; say yes to see what the details are
@@ -46,7 +46,7 @@ I felt really bad for not wowing them, and for the sank cost of a Saturday.
 4. Interviewer says the take-home is part of their hiring process
 5. Drop out of the hiring process from not completing the exercise
 
-**Alternatives to the take home**
+**Alternatives to the take-home**
 
 *Code with an interviewer who is an engineer.*
 
