@@ -5,7 +5,7 @@ tags: personal shopping
 ---
 
 After several years of emotional shopping I need a break. Thanks to sites like [thredup](https://www.thredup.com/), [poshmark](https://poshmark.com), and [eBay](https://www.ebay.com/), I spent countless hours browsing online, resulting in overflowing closets, mindless spending, and less savings. Why is less savings troubling? A dollar invested today, assuming a 7% growth rate, [will double in 10 years](http://www.moneychimp.com/features/rule72.htm).
-Inspired by the [shopping ban by Cate Flanders](https://caitflanders.com/shopping-ban/), I need a shopping ban for myself, with custom rules.
+Inspired by the [shopping ban by Cate Flanders](https://caitflanders.com/shopping-ban/), I designed a shopping ban for myself, with custom rules.
 
 ### The Rules
 For simplicity there are two buckets of spending: one is banned, another not banned.
