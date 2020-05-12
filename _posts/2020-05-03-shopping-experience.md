@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to sell clothes online and curb online clothing spending 
+title: My experience selling clothes on Poshmark over the weekend
 tags: personal shopping
 ---
 
