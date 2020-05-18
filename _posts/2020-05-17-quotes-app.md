@@ -23,10 +23,10 @@ To get quotes I used this [Heroku app derived from Goodreads](https://goodquotes
 Midway through Saturday I thought about and added a **link to the authors' Wikipedia page**, since the URL structure is predictable for most English authors. This makes the authors' backgrounds easy to access. Additionally I noticed how taxing it is for the user to come up with a new search for quotes. So I added the search by **random tag** feature. The **random tag** is one of [100 possible values](https://www.cmu.edu/career/documents/my-career-path-activities/values-exercise.pdf). Randomization lowers the barriers to discover more interesting quotes.
 
 ### 5. Track to dos to work briskly
-I jot down development tasks in the [readme.md](https://github.com/annyh/quote-app-react-native/blob/master/readme.md) so I can pick up where I left off. Also typing out the tasks clarifies the steps for progress.
+I jot down development tasks in the [readme.md](https://github.com/annyh/quote-app-react-native/blob/master/readme.md#todo) so I can pick up where I left off. Also typing out the tasks clarifies the steps for progress.
 
-### And that's a wrap!
-It was a very productive weekend, with enough time leftover to take [a video](http://www.youtube.com/watch?v=8e7yGb7OFbI) and write up this blog post. The [source code is here](https://github.com/annyh/quote-app-react-native). It still has [some to dos](https://github.com/annyh/quote-app-react-native/blob/master/readme.md), so I can pick it up during the week, or another weekend :)
+### That's a wrap!
+It was a productive weekend, with enough time leftover to take [a video](http://www.youtube.com/watch?v=8e7yGb7OFbI) and write up this blog post. The [source code is here](https://github.com/annyh/quote-app-react-native). It still has [some to dos](https://github.com/annyh/quote-app-react-native/blob/master/readme.md#todo), so I can pick it up during the week, or another weekend :)
 
 
 
