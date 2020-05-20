@@ -4,7 +4,7 @@ title: Creating a React Native app over a weekend
 tags: technology
 ---
 
-Since one of my values is **to create more than I consume**, and I've been reading on my phone, I figured why not create a *mobile app to direct my reading*?
+Since one of my guiding principles is **to create more than I consume**, and I've been reading on my phone, I figured why not create a *mobile app to direct my reading*?
 Specifically I wanted a [quotes app](https://github.com/annyh/quote-app-react-native) to save interesting quotes by interesting people. As for skill level, I've dipped my toes in [React Native](https://reactnative.dev/) (a framework for developing native apps) a few weeks before, and have 5+ years of React and JavaScript experience. Here's how I, a React Native newbie, designed and created a React Native app over one weekend.
 
 ### Video walkthrough of the [Quotes App](https://github.com/annyh/quote-app-react-native)

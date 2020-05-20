@@ -1,13 +1,13 @@
 ---
 layout: post
-title: 8 tips to curb online spending 
+title: 8 tips to curb spending 
 tags: personal shopping
 ---
 
 I'm admist a self-imposed [shopping ban](../shopping-ban). During this past month I've improved at controlling my spend. I haven't bought any clothing online for almost two weeks, and don't feel the urge to buy now. Here are 8 tips to curb online spending.
  
 ### 1. Find a new hobby
-My former hobby was buying upscale clothing at a reasonable price. Over time, snapping up deals depleted my bank account and overflowed my closet. Eventually I realized my research skills could be put to better use. Nowadays I develop mobile apps as a hobby, because I know the importance of a good user interface in getting people to do what you want. I will blog more on my first [Android](https://www.android.com/) app, created with [react-native](https://reactnative.dev/)!
+My former hobby was buying upscale clothing at a reasonable price. Over time, snapping up deals depleted my bank account and overflowed my closet. Eventually I realized my research skills could be put to better use. Nowadays I develop mobile apps as a hobby, because I know the importance of a good user interface in getting people to do what you want. I will blog more on my [first Android app, created with react-native](../quotes-app).
 
 ### 2. Try selling the items
 *I can always resell it* was one of my favorite excuses to justify a new purchase. To experience reselling I've started [selling items on Poshmark](../shopping-experience), and surprise surprise, clothes are way more *difficult to sell* than imagined. The many factors at play include the season, fit, trendiness, ... Nevertheless selling clothes online is a new hobby of mine, because it is much more intellectually challenging and satisfying than buying.
