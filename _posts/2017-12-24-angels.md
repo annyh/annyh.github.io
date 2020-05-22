@@ -1,6 +1,6 @@
 ---
 layout: comicCenter
-tags: SanFrancisco
+tags: sanFrancisco
 noTitle: true
 ---
 

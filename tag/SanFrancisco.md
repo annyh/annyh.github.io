@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: SanFrancisco"
-tag: SanFrancisco
+title: "Tag: sanFrancisco"
+tag: sanFrancisco
 ---

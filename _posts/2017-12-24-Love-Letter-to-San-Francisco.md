@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Love Letter to San Francisco
-tags: SanFrancisco
+tags: sanFrancisco
 ---
 
 Dear San Francisco,
