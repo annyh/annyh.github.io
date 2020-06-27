@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack:///./src/pages/404.js"],"names":["Message"],"mappings":"2FAAA,gCAIeA,UAFC,kBAAO","file":"component---src-pages-404-js-c2797325d3871ea532f6.js","sourcesContent":["import React from 'react';\n\nconst Message = () => (<div>hello, you're in no man's land.</div>)\n\nexport default Message;"],"sourceRoot":""}
